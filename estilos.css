@@ -18,3 +18,14 @@
 #principal h1{
     color: red;
 }
+header{
+    display: flex;
+    background-color: aqua;
+    border-bottom: 1px solid black;
+    justify-content: center;
+}
+#centrar{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    
+}
