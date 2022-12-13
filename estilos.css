@@ -4,7 +4,16 @@
 
 }
 #principal{
+    display: flex;
+    border: 1px solid gray;
     align-items: center;
+    justify-content: center;
+    margin-top: 10em;
+    margin-left: 10em;
+    width: 50%;
+}
+#contenido{
+    
 }
 #principal h1{
     color: red;
