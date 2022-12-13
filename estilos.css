@@ -16,11 +16,11 @@
     
 }
 #principal h1{
-    color: blue;
+    color: red;
 }
 header{
     display: flex;
-    background-color: pink;
+    background-color: greenyellow;
     border-bottom: 1px solid black;
     justify-content: center;
 }
